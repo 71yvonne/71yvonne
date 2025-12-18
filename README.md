@@ -6,7 +6,7 @@
 
 - 👯 I'm looking to collaborate on **Development of VLM Application.**
 
-- 📫 How to reach me **wangtiancheng_dl@outlook.com**
+- 📫 How to reach me **tchwang71@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
