@@ -4,11 +4,17 @@
 
 Welcome to my GitHub profile! I'm an undergraduate student majoring in Data Science and Big Data Technology at Anhui University, passionate about computer vision, deep learning, and multimodal learning.
 
+**Personal Information:**
+- 📅 Date of Birth: January 2005
+- 🏛️ Ethnicity: Han | Political Status: League Member
+- 📞 Phone: 182-2556-8682
+- 📧 Email: **tchwang71@outlook.com**
+- 💻 GitHub: [github.com/71yvonne](https://github.com/71yvonne)
+
 - 🔭 I'm currently working on **2D Lane Detection Method Based on Deep Learning** (submitted to EAAI as first author, under review)
 - 🌱 I'm currently learning **Natural Language Processing (NLP), Multimodal Learning, Large Language Models (LLMs), Vision-Language Models (VLMs), and Distributed Storage**
 - 👯 I'm looking to collaborate on **2D/3D Lane Detection Based on Deep Learning, Vision-Language Large Models, and Distributed Storage Systems**
-- 📫 How to reach me: **tchwang71@outlook.com**
-- 📄 Know about my experiences: [个人简历.pdf](https://github.com/7lyvonne/7lyvonne/raw/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
+- 📄 Know about my experiences: [Resume.pdf](https://github.com/7lyvonne/7lyvonne/raw/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
 
 ---
 
@@ -19,15 +25,16 @@ Welcome to my GitHub profile! I'm an undergraduate student majoring in Data Scie
 📊 **GPA: 4.23/5.0** (Top 4% in major) | **Weighted Average: 92.3/100**
 
 **Main Courses:**
-- 机器学习 (Machine Learning): 95
-- 数据结构 (Data Structures): 94
-- 操作系统 (Operating Systems): 95
-- 计算机网络 (Computer Networks): 90
-- 概率论与数理统计 (Probability Theory and Mathematical Statistics): 97
-- 数据库系统 (Database Systems): 95
-- 线性代数 (Linear Algebra): 96
-- 最优化理论与算法 (Optimization Theory and Algorithms): 96
-- 计算机组成原理 (Computer Organization and Architecture): 93
+- Machine Learning: 95
+- Object-Oriented Programming: 95
+- Data Structures: 94
+- Operating Systems: 95
+- Computer Networks: 90
+- Probability Theory and Mathematical Statistics: 97
+- Database Systems: 95
+- Linear Algebra: 96
+- Optimization Theory and Algorithms: 96
+- Computer Organization and Architecture: 93
 
 **English Proficiency:** CET-6 (483)
 
@@ -52,8 +59,8 @@ This work addresses challenges in existing lane line detection methods in comple
 
 ---
 
-### 2. Modeling and Prediction of Interval-Valued Seasonal Time Series
-**Provincial-level University Student Innovation and Entrepreneurship Training Program, Anhui University** | *2024.XX - Present* | *Core Responsible Person*
+### 2. Modeling and Forecasting of Interval-Valued Seasonal Time Series
+**Provincial University Student Innovation and Entrepreneurship Training Program, Anhui University** | *2024.XX - Present* | *Core Contributor*
 
 This project focuses on interval-valued seasonal time series modeling, where existing methods often fail to adequately capture the interplay between interval upper/lower bounds and interval width.
 
@@ -72,11 +79,11 @@ This project focuses on interval-valued seasonal time series modeling, where exi
 
 ## 🏆 Awards and Honors
 
-- 🥇 **全国大学生数学建模竞赛** - Provincial First Prize (2025)
-- 🥈 **全国大学生统计建模大赛** - Provincial Second Prize (2025)
-- 🥇 **蓝桥杯全国大学生软件和信息技术大赛** - Provincial First Prize (2026)
-- 🎓 **国家励志奖学金** × 2 (Academic Years 2023-2025)
-- 🌟 **三好学生** (Academic Year 2023-2024)
+- 🥇 **China Undergraduate Mathematical Contest in Modeling** - Provincial First Prize (2025)
+- 🥈 **National Statistical Modeling Competition for College Students** - Provincial Second Prize (2025)
+- 🥇 **Lanqiao Cup National Software and Information Technology Competition** - Provincial First Prize (2026)
+- 🎓 **National Encouragement Scholarship** × 2 (Academic Years 2023-2025)
+- 🌟 **Outstanding Student Award** (Academic Year 2023-2024)
 
 ---
 
