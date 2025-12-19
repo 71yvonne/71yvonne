@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an undergraduate student majoring in Data Scie
 - 🔭 I'm currently working on **2D Lane Detection Method Based on Deep Learning** (submitted to EAAI as first author, under review)
 - 🌱 I'm currently learning **Natural Language Processing (NLP), Multimodal Learning, Large Language Models (LLMs), Vision-Language Models (VLMs), and Distributed Storage**
 - 👯 I'm looking to collaborate on **2D/3D Lane Detection Based on Deep Learning, Vision-Language Large Models, and Distributed Storage Systems**
-- 📄 Know about my experiences: [Resume.pdf](https://github.com/7lyvonne/7lyvonne/raw/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
+- 📄 Know about my experiences: [Resume.pdf](https://github.com/71yvonne/71yvonne/blob/main/Resume.pdf)
 
 ---
 
