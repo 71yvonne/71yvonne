@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Research interests: Natural Language Processing (NLP), Multimodal Learning, Large Language Models (LLMs), Vision-Language Models (VLMs), and Distributed Storage.**
 
-- 👯 I'm looking to collaborate on **2D/3D Lane Detection Based on Deep Learning, Vision-Language Large Models, and Distributed Storage Systems**
+- 👯 I'm looking to collaborate on **2D/3D Lane Detection Based on Deep Learning, Vision-Language Large Models, and Distributed Storage Systems.**
 
 - 📫 How to reach me **tchwang71@outlook.com**
 
