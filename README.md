@@ -42,16 +42,16 @@ Welcome to my GitHub profile! I'm an undergraduate student majoring in Data Scie
 
 ## 🔬 Research Experience
 
-### 1. Research on Lane Line Detection Method Based on Deep Learning
+### 1. Research on Lane Detection Method Based on Deep Learning
 **Computer Vision Lab, Anhui University** | *2025.XX - Present* | *First Author*
 
-This work addresses challenges in existing lane line detection methods in complex urban traffic scenarios, including inaccurate geometric fitting, discontinuous detection results due to slender structures, large curvature changes, occlusions, and drastic lighting variations.
+This work addresses challenges in existing lane detection methods in complex urban traffic scenarios, including inaccurate geometric fitting, discontinuous detection results due to slender structures, large curvature changes, occlusions, and drastic lighting variations.
 
 **Key Contributions:**
 - Proposed a method based on cross-layer refinement network (CLRerNet)
 - Introduced dynamic snake convolution (DSConv) to enhance adaptive modeling capability for slender curved structures
 - Improved Feature Pyramid Network (FPN) with gated attention mechanism for efficient multi-scale feature fusion
-- Designed structured loss function to constrain lane line prediction from multiple dimensions (spatial continuity, local smoothness, topological connectivity)
+- Designed structured loss function to constrain lane prediction from multiple dimensions (spatial continuity, local smoothness, topological connectivity)
 
 **Results:** Experimental results on CULane and CurveLanes datasets show significant superiority over existing baseline models, especially demonstrating stronger robustness and higher detection accuracy in curved lane and occlusion scenarios.
 
