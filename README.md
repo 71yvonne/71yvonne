@@ -22,16 +22,16 @@ Welcome to my GitHub profile! I'm an undergraduate student majoring in Data Scie
 
 **Anhui University** - *Data Science and Big Data Technology* | *School of Big Data and Statistics*  
 📅 *September 2023 - Present* (Undergraduate)  
-📊 **GPA: 4.23/5.0** (Top 4% in major) | **Weighted Average: 92.3/100**
+📊 **GPA: 4.23/5.0** (Top 3% in major) | **Weighted Average: 92.3/100**
 
 **Main Courses:**
-- Machine Learning: 95
-- Object-Oriented Programming: 95
+- Machine Learning: 97
+- Object-Oriented Programming: 99
 - Data Structures: 94
-- Operating Systems: 95
+- Operating Systems: 99
 - Computer Networks: 90
 - Probability Theory and Mathematical Statistics: 97
-- Database Systems: 95
+- Database Systems: 94
 - Linear Algebra: 96
 - Optimization Theory and Algorithms: 96
 - Computer Organization and Architecture: 93
