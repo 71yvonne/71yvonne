@@ -2,7 +2,7 @@
 
 ### An undergraduate
 
-- 🔭 I'm currently working on **Lane detection based on deep learning**
+- 🔭 I'm currently working on **Driving VLM Reliability Calibration via Visual Evidence Consistency**
 
 - 🌱 I'm currently learning **Multimodal, VLM**
 
