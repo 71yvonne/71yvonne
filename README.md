@@ -2,7 +2,7 @@
 
 ### An undergraduate
 
-- 🔭 I'm currently working on **Driving VLM Reliability Calibration via Visual Evidence Consistency**
+- 🔭 I'm currently working on **Collaborative Reliability Index for Vision-Language Models in Autonomous Driving**
 
 - 🌱 I'm currently learning **Multimodal, VLM**
 
