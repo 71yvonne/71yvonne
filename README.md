@@ -2,7 +2,7 @@
 
 ### An undergraduate
 
-- 🔭 I'm currently working on **Visual Evidence Consistency for Reliable Vision-Language Reasoning in Autonomous Driving**
+- 🔭 I'm currently working on **Non-linear Sequential Script Event Benchmark**
 
 - 🌱 I'm currently learning **Multimodal, VLM**
 
