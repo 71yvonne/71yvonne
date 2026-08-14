@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tiancheng Wang (汪天成)
+# Hi 👋, I'm Tiancheng Wang
 
 ### Undergrad student @ School of Big Data and Statistics, Anhui University
 
