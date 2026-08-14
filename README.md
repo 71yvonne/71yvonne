@@ -9,7 +9,7 @@
 - 📝 Publications (under review):
   - *GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection* — IEEE T-ITS (CCF-B), co-first author
   - *Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow* — AAAI 2027 (CCF-A), co-first author
-- 📫 Email: **tchwang71@outlook.com** / **wd2334139@stu.ahu.edu.cn**
+- 📫 Email: **tchwang71@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
