@@ -1,12 +1,15 @@
-# Hi 👋, I'm Tiancheng Wang
+# Hi 👋, I'm Tiancheng Wang (汪天成)
 
-### An undergraduate
+### Undergrad student @ School of Big Data and Statistics, Anhui University
 
-- 🔭 I'm currently working on **Non-linear Sequential Script Event Benchmark**
+**Data Science and Big Data Technology** · 2023.09 – Present
 
-- 🌱 I'm currently learning **Multimodal, VLM**
-
-- 📫 How to reach me **tchwang71@outlook.com**
+- 🔭 Research: **Computer Vision** (lane detection) & **NLP / LLMs** (script learning with nonlinear control flow)
+- 🌱 Interests: **Multimodal Learning**, **Large Language Models**, **VLMs**
+- 📝 Publications (under review):
+  - *GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection* — IEEE T-ITS (CCF-B), co-first author
+  - *Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow* — AAAI 2027 (CCF-A), co-first author
+- 📫 Email: **tchwang71@outlook.com** / **wd2334139@stu.ahu.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +17,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
-
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/></a>
+</p>
