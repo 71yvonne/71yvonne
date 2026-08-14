@@ -22,5 +22,4 @@
   <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/></a>
 </p>
