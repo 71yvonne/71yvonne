@@ -4,7 +4,7 @@
 
 **Data Science and Big Data Technology** · 2023.09 – Present
 
-- 🔭 Research: **Computer Vision** (lane detection) & **NLP / LLMs** (script learning with nonlinear control flow)
+- 🔭 Research: **Computer Vision** (lane detection) & **NLP / LLMs** (script learning)
 - 🌱 Interests: **Multimodal Learning**, **Large Language Models**, **VLMs**
 - 📝 Publications (under review):
   - *GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection* — IEEE T-ITS (CCF-B), co-first author
