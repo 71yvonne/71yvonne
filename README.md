@@ -7,8 +7,8 @@
 - 🔭 Research: **Computer Vision** (lane detection) & **NLP / LLMs** (script learning)
 - 🌱 Interests: **Multimodal Learning**, **Large Language Models**, **VLMs**
 - 📝 Publications (under review):
-  - *GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection* — IEEE T-ITS (CCF-B), co-first author
-  - *Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow* — AAAI 2027 (CCF-A), co-first author
+  - *GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection* — IEEE T-ITS, co-first author
+  - *Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow* — AAAI 2027, co-first author
 - 📫 Email: **tchwang71@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
