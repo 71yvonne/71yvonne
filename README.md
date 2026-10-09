@@ -22,18 +22,17 @@ Computer Network Information Center, Chinese Academy of Sciences
 
 ## Research
 
-| | |
-| --- | --- |
-| **Computer Vision** | Lane detection |
-| **NLP / LLMs** | Script learning |
-| **Interests** | Multimodal Learning · Large Language Models · Vision-Language Models |
+**Computer Vision** · Lane detection  
+**NLP / LLMs** · Script learning  
+**Interests** · Multimodal Learning · Large Language Models · Vision-Language Models
 
 ## Publications
 
-| Paper | Venue | Status | Role |
-| --- | --- | --- | --- |
-| **GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection** | IEEE T-ITS | Under revision | Co-first author |
-| **Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow** | COLING 2027 | Submitted | Co-first author |
+**GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection**  
+IEEE T-ITS · Revision · Co-first author
+
+**Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow**  
+COLING 2027 · Submitted · Co-first author
 
 <br>
 
