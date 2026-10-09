@@ -6,7 +6,8 @@
 School of Big Data and Statistics, Anhui University · 2023.09 – Present
 
 **Master's** · Computer Technology · Recommended admission · 2027.09 – 2030.06  
-Computer Network Information Center, Chinese Academy of Sciences
+Computer Network Information Center, Chinese Academy of Sciences  
+**Direction** · Large Language Models · AI for Science
 
 <br>
 
