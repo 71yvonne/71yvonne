@@ -32,7 +32,7 @@ Computer Network Information Center, Chinese Academy of Sciences
 **GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection**  
 IEEE T-ITS · Revision · Co-first author
 
-**Beyond Linear Chains: Rethinking Script Learning with Nonlinear Control Flow**  
+**Beyond Linear Chains: Script Learning with Nonlinear Control Flow**  
 COLING 2027 · Submitted · Co-first author
 
 <br>
