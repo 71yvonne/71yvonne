@@ -24,8 +24,8 @@ Computer Network Information Center, Chinese Academy of Sciences
 ## Research
 
 **Computer Vision** · Lane detection  
-**NLP / LLMs** · Script learning  
-**Interests** · Multimodal Learning · Large Language Models · Vision-Language Models
+**NLP / LLMs** · Script learning · Information extraction  
+**Interests** · Natural Language Processing · Large Language Models
 
 ## Publications
 
