@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 # Tiancheng Wang
 
@@ -37,7 +37,7 @@ COLING 2027 · Submitted · Co-first author
 
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 📫 [tchwang71@outlook.com](mailto:tchwang71@outlook.com)
 
