@@ -3,23 +3,15 @@
 # Tiancheng Wang
 
 **Undergraduate** · Data Science and Big Data Technology  
-School of Big Data and Statistics, Anhui University · 2023.09 – Present
+School of Big Data and Statistics, Anhui University · *2023.09 – Present*
 
-**Master's** · Computer Technology · Recommended admission · 2027.09 – 2030.06  
+**Master's** · Computer Technology · Recommended admission · *2027.09 – 2030.06*  
 Computer Network Information Center, Chinese Academy of Sciences  
 **Direction** · Large Language Models · AI for Science
 
-<br>
-
 [![Email](https://img.shields.io/badge/Email-tchwang71%40outlook.com-1f2937?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tchwang71@outlook.com)
-&nbsp;
-![CV](https://img.shields.io/badge/Computer_Vision-lane_detection-374151?style=flat-square)
-&nbsp;
-![NLP](https://img.shields.io/badge/NLP_%2F_LLMs-script_learning-374151?style=flat-square)
 
-</div>
-
-<br>
+[![Email](https://img.shields.io/badge/Email-tchwang71dddd%40gmail.com-1f2937?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tchwang71dddd@gmail.com)
 
 ## Research
 
