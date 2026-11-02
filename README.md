@@ -9,10 +9,6 @@ School of Big Data and Statistics, Anhui University · *2023.09 – Present*
 Computer Network Information Center, Chinese Academy of Sciences  
 **Direction** · Large Language Models · AI for Science
 
-[![Email](https://img.shields.io/badge/Email-tchwang71%40outlook.com-1f2937?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tchwang71@outlook.com)
-
-[![Email](https://img.shields.io/badge/Email-tchwang71dddd%40gmail.com-1f2937?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tchwang71dddd@gmail.com)
-
 ## Research
 
 **Computer Vision** · Lane Detection  
@@ -32,5 +28,7 @@ COLING 2027 · Submitted · Co-first author
 <!-- <div align="center"> -->
 
 📫 [tchwang71@outlook.com](mailto:tchwang71@outlook.com)
+
+📫 [tchwang71dddd@gmail.com](mailto:tchwang71dddd@gmail.com)
 
 </div>
