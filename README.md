@@ -29,7 +29,7 @@ Computer Network Information Center, Chinese Academy of Sciences
 
 ## Publications
 
-**GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection**  
+**SG-Lane: Score–Geometry Alignment and Selective Local Refinement for Accurate Lane Detection**  
 IEEE T-ITS · Revision · Co-first author
 
 **Beyond Linear Chains: Script Learning with Nonlinear Control Flow**  
