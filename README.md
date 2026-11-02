@@ -18,10 +18,10 @@ Computer Network Information Center, Chinese Academy of Sciences
 ## Publications
 
 **SG-Lane: Score–Geometry Alignment and Selective Local Refinement for Accurate Lane Detection**  
-IEEE T-ITS · Revision · Co-first author
+*IEEE T-ITS* · Revision · Co-first author
 
 **Beyond Linear Chains: Script Learning with Nonlinear Control Flow**  
-COLING 2027 · Submitted · Co-first author
+*COLING 2027* · Submitted · Co-first author
 
 <br>
 
